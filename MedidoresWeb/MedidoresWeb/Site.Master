@@ -29,7 +29,6 @@
                             <ul class="dropdown-menu" aria-labelledby="drop1">
                                 <li><a class="dropdown-item" href="RegistrarEstacion.aspx">Registrar</a></li>
                                 <li><a class="dropdown-item" href="VerEstacion.aspx">Visualizar en una grilla</a></li>
-                                <li><a class="dropdown-item" href="EliminarEstacion.aspx">Eliminar estaciones</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
@@ -38,8 +37,6 @@
                             <ul class="dropdown-menu" aria-labelledby="drop2">
                                 <li><a class="dropdown-item" href="RegistrarPunto.aspx">Registrar </a></li>
                                 <li><a class="dropdown-item" href="VerPunto.aspx">Visualizar en una grilla</a></li>
-                                <li><a class="dropdown-item" href="ActualizarPunto.aspx">Actualizar</a></li>
-                                <li><a class="dropdown-item" href="FiltrarPunto.aspx">Filtrar por Tipo</a></li>
                             </ul>
                         </li>
                     </ul>

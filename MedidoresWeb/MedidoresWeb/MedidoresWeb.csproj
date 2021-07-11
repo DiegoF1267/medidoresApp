@@ -68,9 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
-    <Content Include="EliminarEstacion.aspx" />
     <Content Include="ActualizarPunto.aspx" />
-    <Content Include="FiltrarPunto.aspx" />
     <Content Include="RegistrarEstacion.aspx" />
     <Content Include="RegistrarPunto.aspx" />
     <Content Include="VerEstacion.aspx" />
@@ -85,26 +83,12 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="EliminarEstacion.aspx.cs">
-      <DependentUpon>EliminarEstacion.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="EliminarEstacion.aspx.designer.cs">
-      <DependentUpon>EliminarEstacion.aspx</DependentUpon>
-    </Compile>
     <Compile Include="ActualizarPunto.aspx.cs">
       <DependentUpon>ActualizarPunto.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="ActualizarPunto.aspx.designer.cs">
       <DependentUpon>ActualizarPunto.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="FiltrarPunto.aspx.cs">
-      <DependentUpon>FiltrarPunto.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="FiltrarPunto.aspx.designer.cs">
-      <DependentUpon>FiltrarPunto.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegistrarEstacion.aspx.cs">
