@@ -13,5 +13,15 @@ namespace MedidoresWeb
         {
 
         }
+
+        protected void BtnPunto_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void BtnPunto_Click1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

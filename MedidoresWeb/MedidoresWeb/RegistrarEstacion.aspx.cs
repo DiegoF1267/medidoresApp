@@ -13,5 +13,10 @@ namespace MedidoresWeb
         {
 
         }
+
+        protected void BtnEstacion_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
