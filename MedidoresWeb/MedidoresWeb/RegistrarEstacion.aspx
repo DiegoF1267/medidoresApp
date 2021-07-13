@@ -16,13 +16,13 @@
                         <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ErrorMessage="Debe ingresar el Identificador" CssClass="text-danger" ControlToValidate="idTxt"></asp:RequiredFieldValidator>
                     </div>
                     <div class="form-group">
-                        <label for="capInt">Capacidad maxima</label>
-                        <asp:TextBox ID="capInt" runat="server" CssClass="form-control "></asp:TextBox>
-                        <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Debe ingresar la cantidad maxima de vehiculos" CssClass="text-danger" ControlToValidate="capInt" OnServerValidate="rutCV_ServerValidate" ValidateEmptyText="true"></asp:RequiredFieldValidator>
+                        <label for="capTxt">Capacidad maxima</label>
+                        <asp:TextBox ID="capTxt" runat="server" CssClass="form-control "></asp:TextBox>
+                        <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Debe ingresar la cantidad maxima de vehiculos" CssClass="text-danger" ControlToValidate="capTxt" OnServerValidate="rutCV_ServerValidate" ValidateEmptyText="true"></asp:RequiredFieldValidator>
                     </div>
                     <div class="form-group">
-                        <label for="VC">Vida Util</label>
-                        <asp:Calendar ID="VC" runat="server"></asp:Calendar>
+                        <label for="VcTxt">Vida Util</label>
+                        <asp:Calendar ID="vcTxt" runat="server"></asp:Calendar>
                     </div>
                     <br />
                     <div class="form-group">

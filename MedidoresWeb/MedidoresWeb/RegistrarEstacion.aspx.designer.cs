@@ -31,13 +31,13 @@ namespace MedidoresWeb {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator3;
         
         /// <summary>
-        /// Control capInt.
+        /// Control capTxt.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox capInt;
+        protected global::System.Web.UI.WebControls.TextBox capTxt;
         
         /// <summary>
         /// Control RequiredFieldValidator2.
@@ -49,13 +49,13 @@ namespace MedidoresWeb {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator2;
         
         /// <summary>
-        /// Control VC.
+        /// Control vcTxt.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Calendar VC;
+        protected global::System.Web.UI.WebControls.Calendar vcTxt;
         
         /// <summary>
         /// Control nivelRbl.

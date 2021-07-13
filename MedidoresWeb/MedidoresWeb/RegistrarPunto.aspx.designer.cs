@@ -13,13 +13,13 @@ namespace MedidoresWeb {
     public partial class RegistrarPunto {
         
         /// <summary>
-        /// Control DiTxt.
+        /// Control diTxt.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox DiTxt;
+        protected global::System.Web.UI.WebControls.TextBox diTxt;
         
         /// <summary>
         /// Control RequiredFieldValidator3.
@@ -31,13 +31,13 @@ namespace MedidoresWeb {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator3;
         
         /// <summary>
-        /// Control capInt.
+        /// Control capTxt.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox capInt;
+        protected global::System.Web.UI.WebControls.TextBox capTxt;
         
         /// <summary>
         /// Control RequiredFieldValidator1.
